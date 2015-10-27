@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Hockey Schedule 15</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="schedule_file">nhl_schedule.txt</string>
+    <color name="Anaheim_Ducks">#2C292A</color>
+    <color name="Arizona_Coyotes">#862633</color>
+    <color name="Boston_Bruins">#2C2A29</color>
+    <color name="Buffalo_Sabres">#041E42</color>
+    <color name="Calgary_Flames">#C8102E</color>
+    <color name="Carolina_Hurricanes">#E03A3E</color>
+    <color name="Chicago_Blackhawks">#000000</color>
+    <color name="Colorado_Avalanche">#01548A</color>
+    <color name="Columbus_Blue_Jackets">#00285C</color>
+    <color name="Dallas_Stars">#C0C0C0</color>
+    <color name="Detroit_Red_Wings">#EC1F26</color>
+    <color name="Edmonton_Oilers">#003777</color>
+    <color name="Florida_Panthers">#D59C05</color>
+    <color name="Los_Angeles_Kings">#000000</color>
+    <color name="Minnestoa_Wild">#025736</color>
+    <color name="Montreal_Canadiens">#BF2F38</color>
+    <color name="Nashville_Predators">#FDBB2F</color>
+    <color name="New_Jersey_Devils">#E03A3E</color>
+    <color name="New_York_Islanders">#00529B</color>
+    <color name="New_York_Rangers">#0161AB</color>
+    <color name="Ottawa_Senators">#E4173E</color>
+    <color name="Philadelphia_Flyers">#000000</color>
+    <color name="Pittsburg_Penguins">#D1BD80</color>
+    <color name="San_Jose_Sharks">#05535D</color>
+    <color name="St.Louis_Blues">#0546A0</color>
+    <color name="Tampa_Bay_Lightning">#013E7D</color>
+    <color name="Toronto_Maple_Leafs">#003777</color>
+    <color name="Vancouver_Canucks">#07346F</color>
+    <color name="Washington_Capitals">#CF132B</color>
+    <color name="Winnipeg_Jets">#002E62</color>
+</resources>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+            <item android:title="">
+                <menu>
+                    <item android:id="@+id/games_today" android:title="Games Playing Today"></item>
+                </menu>
+            </item>
+
+            <item android:title="Atlantic Division">
+                <menu>
+                    <item android:id="@+id/boston_bruins" android:icon="@drawable/star_icon"
+                        android:title="Boston Bruins" />
+                    <item android:id="@+id/buffalo_sabres" android:icon="@drawable/star_icon"
+                        android:title="Buffalo Sabres" />
+                    <item android:id="@+id/detroit_red_wings" android:icon="@drawable/star_icon"
+                        android:title="Detroit Red Wings" />
+                    <item android:id="@+id/florida_panthers" android:icon="@drawable/star_icon"
+                        android:title="Florida Panthers" />
+                    <item android:id="@+id/montreal_canadiens" android:icon="@drawable/star_icon"
+                        android:title="Montreal Canadiens" />
+                    <item android:id="@+id/ottawa_senators" android:icon="@drawable/star_icon"
+                        android:title="Ottawa Senators" />
+                    <item android:id="@+id/tampa_bay_lightning" android:icon="@drawable/star_icon"
+                        android:title="Tampa Bay Lightning" />
+                    <item android:id="@+id/toronto_maple_leafs" android:icon="@drawable/star_icon"
+                        android:title="Toronto Maple Leafs" />
+                </menu>
+            </item>
+            <item android:title="Metropolitan Division">
+                <menu>
+                    <item android:id="@+id/carolina_hurricanes" android:icon="@drawable/star_icon"
+                        android:title="Carolina Hurricanes" />
+                    <item android:id="@+id/columbus_blue_jackets" android:icon="@drawable/star_icon"
+                        android:title="Columbus Blue Jackets" />
+                    <item android:id="@+id/new_jersey_devils" android:icon="@drawable/star_icon"
+                        android:title="New Jersey Devils" />
+                    <item android:id="@+id/new_york_islanders" android:icon="@drawable/star_icon"
+                        android:title="New York Islanders" />
+                    <item android:id="@+id/new_york_rangers" android:icon="@drawable/star_icon"
+                        android:title="New York Rangers" />
+                    <item android:id="@+id/philadelphia_flyers" android:icon="@drawable/star_icon"
+                        android:title="Philadelphia Flyers" />
+                    <item android:id="@+id/pittsburg_penguins" android:icon="@drawable/star_icon"
+                        android:title="Pittsburg Penguins" />
+                    <item android:id="@+id/washington_capitals" android:icon="@drawable/star_icon"
+                        android:title="Washington Capitals" />
+                </menu>
+            </item>
+                <item android:title="Central Division">
+                    <menu>
+                        <item android:id="@+id/chicago_blackhawks" android:icon="@drawable/star_icon"
+                            android:title="Chicago Blackhawks" />
+                        <item android:id="@+id/colorado_avalanche" android:icon="@drawable/star_icon"
+                            android:title="Colorado Avalanche" />
+                        <item android:id="@+id/dallas_stars" android:icon="@drawable/star_icon"
+                            android:title="Dallas Stars" />
+                        <item android:id="@+id/minnesota_wild" android:icon="@drawable/star_icon"
+                            android:title="Minnesota Wild" />
+                        <item android:id="@+id/nashville_predators" android:icon="@drawable/star_icon"
+                            android:title="Nashville Predators" />
+                        <item android:id="@+id/st_louis_blues" android:icon="@drawable/star_icon"
+                            android:title="St. Louis Blues" />
+                        <item android:id="@+id/winnipeg_jets" android:icon="@drawable/star_icon"
+                            android:title="Winnipeg Jets" />
+                    </menu>
+                </item>
+
+                <item android:title="Pacific Division">
+                    <menu>
+                        <item android:id="@+id/aneheim_ducks" android:icon="@drawable/star_icon"
+                            android:title="Anaheim Ducks" />
+                        <item android:id="@+id/phoenix_coyotes" android:icon="@drawable/star_icon"
+                            android:title="Arizona Coyotes" />
+                        <item android:id="@+id/calgary_flames" android:icon="@drawable/star_icon"
+                            android:title="Calgary Flames" />
+                        <item android:id="@+id/edmonton_oilers" android:icon="@drawable/star_icon"
+                            android:title="Edmonton Oilers" />
+                        <item android:id="@+id/los_angeles_king" android:icon="@drawable/star_icon"
+                            android:title="Los Angeles Kings" />
+
+                        <item android:id="@+id/san_jose_sharks" android:icon="@drawable/star_icon"
+                            android:title="San Jose Sharks" />
+                        <item android:id="@+id/vancouver_canucks" android:icon="@drawable/star_icon"
+                            android:title="Vancouver Canucks" />
+                    </menu>
+                </item>
+</menu>
+
